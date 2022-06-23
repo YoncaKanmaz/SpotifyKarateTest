@@ -1,0 +1,13 @@
+Spotify End To End Test Senaryosu
+
+1. Sisteme başarılı bir şekilde kullanıcı girişi yapılır.
+2. Başarılı kullanıcı girişi yapıldığı kontrol edilir. (API)
+2. Arama sayfasına gidilir.
+3. Tv ve Filmler kategorisine tıklanır.
+4. Minions Official Playlist'e tıklanır.
+5. Kitaplığa eklenir.
+6. Kitaplığa eklendiği kontrolü yapılır.(API)
+7. Playlist kitaplıktan kaldırılır.
+8. Kitaplıktan kaldırıldığı kontrolü yapılır.(API)
+9. Sistemden kullanıcı çıkışı yapılır.
+10. Sistemden kullanıcı çıkışı yapıldığı kontrolü yapılır.

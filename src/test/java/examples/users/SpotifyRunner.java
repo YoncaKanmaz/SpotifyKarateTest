@@ -17,6 +17,7 @@ public class SpotifyRunner {
     @Karate.Test
     Karate spotifyHybrid() {
         return Karate.run("spotifyhybrid").relativeTo(getClass());
+
     }
 
     @Karate.Test

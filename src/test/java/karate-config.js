@@ -6,7 +6,7 @@ function fn() {
   }
   var config = {
     env: env,
-    myToken: 'BQDBWtNUZWQ30dIs3gPBHFTH76zVtkEf3a-Sk1aA9sRJQphtvzjxiiYwm2-5Rogk0_2R5KLYbaMBeheFdyh0BpUiVCr2OLaEcf22pP-kf4zWylwcMv3rco6ppxRhIdLlDOJhYDf9HO47TgX2pBHuuXfy6GPALtKhGR-Emf4Jan0USiExVeoKLqfON7UXCsJ1ZRNNNNIa2bUm4ffKjc395sjmWk0dBmiSp4LZ_UCMN_5Xj6cyChQj39KBCU_pYmh9hg',
+    myToken: 'BQAL2WkABISOPC8IKlCLu3uBtN8FqGwLq0pgPPRA6MKLedmcCQVlAHnmhXrXKZqcVoYSmjiJJhzAoBkF2euIMvlFX5Y8CW3IU5EvhAV_xsGXx9OL5v2lulrZEyuq9F_84em94j2e4FMEv8QZZkyJovhYmQ_mdY99Jy7sgt1cLEuD0ckj-q0Si80l6G0yYGhb0_YLSxxBgAPuojsl7xpaD4GYahYOBU1_gCHtkCxzgDcMSWM5vNTYN_nOmfYE3kQeC3gDr75Aq4d-u4ey',
     baseUrl: 'https://api.spotify.com/v1'
   }
   if (env == 'dev') {
